@@ -1,0 +1,328 @@
+@font-face {
+    font-family: Muli;
+    src:url(fonts/Muli.ttf);
+}
+.home{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    
+}
+.elemento{
+    background-image: url(images/menu.jpg);
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 85px;
+    width: 150px;
+    margin-top: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+        
+}
+.elemento2{
+    width:32%;
+    height: 85px;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-image: url(images/modulos.jpg);
+    margin-right: 30px;
+    margin-left: 34px;
+
+}
+.elemento3{
+   margin-top: 35px;
+    text-align: right;
+    font-family:Muli,sans-serif;
+    cursor: pointer;
+}
+
+.elemento4{
+    margin-top: 35px;
+    text-align: left;
+    margin-left: -135px;
+    font-family:Muli,sans-serif;
+    cursor: pointer;
+}
+
+.elemento3:hover{
+   color:green;
+   text-decoration: underline;
+   
+}
+.elemento4:hover{
+    color: green;
+    text-decoration: underline;
+}
+.boton:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.contenido{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.texto1{
+    font-size: 56px ;
+    margin-left: -100px;
+    font-family:Muli,sans-serif;
+    margin-left: 53px;
+    
+}
+.sub {
+    text-decoration: underline;
+    text-decoration-color: green;
+    
+}
+.texto2{
+    
+    background-image: url(images/desktop.jpg);
+    width: 56%;
+    height: 570px;
+    margin-right: -117px;
+    margin-top: 110px;
+    
+}
+.boton0{
+    font-family:Muli,sans-serif;
+}
+.boton1{
+    font-family:Muli,sans-serif;
+        font-size: 15px;
+}
+.boton{
+  
+    background-color: #58a573;
+    width:200px;
+    cursor: pointer;
+    height: 70px;
+    text-align: center;
+    color: white;
+    font-family:Muli,sans-serif;
+}
+.offert{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    height: 528px;
+    width: 100%;
+    background-color: #58a573;
+   
+    
+}
+.textoffert{
+    
+    font-family:Muli;   
+    margin-left: -469px;
+    margin-top: 200px;
+    
+}
+.imageoffert{
+    margin-left: 144px;
+    background-image: url(images/oferta.jpg);
+    background-repeat: no-repeat;
+    width:40%;
+    height: 372px;
+    margin-top: 60px;
+}
+.titulo{
+    margin-left: 74px;
+    font-family:Muli,sans-serif;
+    font-size: 18px;
+}
+.boton2{
+    width:200px;
+    background-color: #232827;
+    height: 70px;
+    text-align: center;
+    color: white;
+    font-family:Muli,sans-serif;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.boton2:hover{
+    color: white;
+    text-decoration: underline;
+}
+.explore{
+    margin-left: 70px;
+    margin: 70px;
+    font-family:Muli,sans-serif;
+}
+.productos{
+    display: flex;
+    justify-content: space-around;
+}
+.imagen1{
+    background-image: url(images/imagen1.jpg);
+    height: 593px;
+    width: 628px;
+    background-repeat: no-repeat;
+    margin-left: 15px;
+    font-family:Muli,sans-serif;
+
+}
+.boton3{
+    width:200px;
+    height: 70px;
+    text-align: center;
+    color: black;
+    font-family:Muli,sans-serif;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.boton3:hover{
+    color: #58a573;
+    text-decoration: underline;
+}
+.imagen2{
+    background-image: url(images/imagen2.jpg);
+    height: 593px;
+    width: 300px;
+    background-repeat: no-repeat;
+    margin-left: 4px;
+    font-family:Muli,sans-serif;
+}
+.imagen3{
+    background-image: url(images/imagen3.jpg);
+    height: 593px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color: white;
+    font-family:Muli,sans-serif;
+       
+}
+.boton4{
+    cursor: pointer;
+    font-family:Muli,sans-serif;
+}
+.boton4:hover{
+    color:#58a573 ;
+    text-decoration: underline;
+}
+.boton5{
+    cursor: pointer;
+    font-family:Muli,sans-serif;
+    color: #58a573;
+}
+.boton5:hover{
+    color:58a573 ;
+    text-decoration: underline;
+}
+.banner{
+    background-image: url(images/bannerhands.jpg);
+    height: 500px ;
+    width: 95%;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.banner2{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -26px;   
+    margin-top: -90px; 
+}
+.mesa1{
+    background-image: url(images/mesaizq.jpg);
+    height: 500px ;
+    width: 95%;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.mesa2{
+    background-image: url(images/mesader.jpg);
+    height: 500px ;
+    width: 95%;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.linea1{
+    background-color: white;
+    margin-top: 40px;
+    text-align: center;
+    font-family:Muli,sans-serif;
+    font-size: 1.25rem;
+    height: 100px;
+    margin-top: 0px;
+    
+}
+.linea2{
+    background-image: url(images/linea1.jpg);
+    height: 100px;
+    background-repeat: no-repeat;
+    
+}
+.linea3{
+    background-image: url(images/linea2.jpg);
+    height: 100px;
+    background-repeat: no-repeat;
+}
+.textotitulo{
+    font-size: 3.5rem;
+    font-family:Muli,sans-serif;
+    margin-top: 100px;
+}
+.textobajo{
+    font-family:Muli,sans-serif;   
+}
+.laptop{
+    background-image: url(images/desktoplaptop.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+}
+.tamano{
+    background-image: url(Images/tamano.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-left: 311px;
+
+}
+.textotamano{
+    font-family:Muli,sans-serif;
+    margin-top: -25px;
+    height: 200px;
+}
+.boton6{
+    background-color: #58a573;
+    width:200px;
+    cursor: pointer;
+    height: 70px;
+    text-align: center;
+    color: white;
+    font-family:Muli,sans-serif;
+}
+.boton6:hover{
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.features{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-color: white;
+}
+.features1{
+    background-image: url(images/features1.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 600px;
+    margin-top: 200px;
+    text-align: center;
+    font-family:Muli,sans-serif;
+    margin-left: 42px;
+}
+.features2{
+    background-image: url(images/features2.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 600px;
+    margin-top: 200px;
+    
+}
