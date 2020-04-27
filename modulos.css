@@ -145,16 +145,16 @@
     color: white;
     text-decoration: underline;
 }
-.explore{
+.title3content7{
     margin-left: 70px;
     margin: 70px;
     font-family:Muli,sans-serif;
 }
-.productos{
+.content8{
     display: flex;
     justify-content: space-around;
 }
-.imagen1{
+.imagecontent9{
     background-image: url(images/imagen1.jpg);
     height: 593px;
     width: 628px;
@@ -163,7 +163,7 @@
     font-family:Muli,sans-serif;
 
 }
-.boton3{
+.button3{
     width:200px;
     height: 70px;
     text-align: center;
@@ -172,11 +172,11 @@
     margin-top: 20px;
     cursor: pointer;
 }
-.boton3:hover{
+.button3:hover{
     color: #58a573;
     text-decoration: underline;
 }
-.imagen2{
+.imagecontent10{
     background-image: url(images/imagen2.jpg);
     height: 593px;
     width: 300px;
@@ -184,7 +184,7 @@
     margin-left: 4px;
     font-family:Muli,sans-serif;
 }
-.imagen3{
+.imagecontent11{
     background-image: url(images/imagen3.jpg);
     height: 593px;
     width: 300px;
@@ -193,20 +193,20 @@
     font-family:Muli,sans-serif;
        
 }
-.boton4{
+.button4{
     cursor: pointer;
     font-family:Muli,sans-serif;
 }
-.boton4:hover{
+.button4:hover{
     color:#58a573 ;
     text-decoration: underline;
 }
-.boton5{
+.button5{
     cursor: pointer;
     font-family:Muli,sans-serif;
     color: #58a573;
 }
-.boton5:hover{
+.button5:hover{
     color:58a573 ;
     text-decoration: underline;
 }
