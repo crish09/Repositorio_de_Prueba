@@ -2,13 +2,13 @@
     font-family: Muli;
     src:url(fonts/Muli.ttf);
 }
-.home{
+.content1{
     display: flex;
     justify-content: space-around;
     margin-top: 20px;
     
 }
-.elemento{
+.element1{
     background-image: url(images/menu.jpg);
     background-repeat: no-repeat;
     align-items: center;
@@ -19,7 +19,7 @@
     cursor: pointer;
         
 }
-.elemento2{
+.element2{
     width:32%;
     height: 85px;
     background-repeat: no-repeat;
@@ -29,14 +29,14 @@
     margin-left: 34px;
 
 }
-.elemento3{
+.element3{
    margin-top: 35px;
     text-align: right;
     font-family:Muli,sans-serif;
     cursor: pointer;
 }
 
-.elemento4{
+.element4{
     margin-top: 35px;
     text-align: left;
     margin-left: -135px;
@@ -44,38 +44,38 @@
     cursor: pointer;
 }
 
-.elemento3:hover{
+.element3:hover{
    color:green;
    text-decoration: underline;
    
 }
-.elemento4:hover{
+.element4:hover{
     color: green;
     text-decoration: underline;
 }
-.boton:hover{
+.button1:hover{
     color: white;
     text-decoration: underline;
 }
 
-.contenido{
+.content2{
     display: flex;
     justify-content: space-around;
     margin-top: 50px;
 }
-.texto1{
+.title1{
     font-size: 56px ;
     margin-left: -100px;
     font-family:Muli,sans-serif;
     margin-left: 53px;
     
 }
-.sub {
+.subtext1{
     text-decoration: underline;
     text-decoration-color: green;
-    
+
 }
-.texto2{
+.imagecontent3{
     
     background-image: url(images/desktop.jpg);
     width: 56%;
@@ -84,14 +84,14 @@
     margin-top: 110px;
     
 }
-.boton0{
+.element5{
     font-family:Muli,sans-serif;
 }
-.boton1{
+.element6{
     font-family:Muli,sans-serif;
         font-size: 15px;
 }
-.boton{
+.button1{
   
     background-color: #58a573;
     width:200px;
@@ -101,7 +101,7 @@
     color: white;
     font-family:Muli,sans-serif;
 }
-.offert{
+.content5{
     display: flex;
     justify-content: space-around;
     margin-top: 20px;
@@ -111,14 +111,14 @@
    
     
 }
-.textoffert{
+.element7{
     
     font-family:Muli;   
     margin-left: -469px;
     margin-top: 200px;
     
 }
-.imageoffert{
+.imagecontent6{
     margin-left: 144px;
     background-image: url(images/oferta.jpg);
     background-repeat: no-repeat;
@@ -126,12 +126,12 @@
     height: 372px;
     margin-top: 60px;
 }
-.titulo{
+.title2{
     margin-left: 74px;
     font-family:Muli,sans-serif;
     font-size: 18px;
 }
-.boton2{
+.button2{
     width:200px;
     background-color: #232827;
     height: 70px;
@@ -141,7 +141,7 @@
     margin-top: 20px;
     cursor: pointer;
 }
-.boton2:hover{
+.button2:hover{
     color: white;
     text-decoration: underline;
 }
