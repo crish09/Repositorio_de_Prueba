@@ -2,12 +2,13 @@
     font-family: Muli;
     src:url(fonts/Muli.ttf);
 }
+
 .content1{
     display: flex;
     justify-content: space-around;
-    margin-top: 20px;
-    
+    margin-top: 20px;    
 }
+
 .element1{
     background-image: url(images/menu.jpg);
     background-repeat: no-repeat;
@@ -16,9 +17,9 @@
     width: 150px;
     margin-top: 20px;
     margin-right: 20px;
-    cursor: pointer;
-        
+    cursor: pointer;        
 }
+
 .element2{
     width:32%;
     height: 85px;
@@ -27,8 +28,8 @@
     background-image: url(images/modulos.jpg);
     margin-right: 30px;
     margin-left: 34px;
-
 }
+
 .element3{
    margin-top: 35px;
     text-align: right;
@@ -46,13 +47,14 @@
 
 .element3:hover{
    color:green;
-   text-decoration: underline;
-   
+   text-decoration: underline;   
 }
+
 .element4:hover{
     color: green;
     text-decoration: underline;
 }
+
 .button1:hover{
     color: white;
     text-decoration: underline;
@@ -63,36 +65,37 @@
     justify-content: space-around;
     margin-top: 50px;
 }
+
 .title1{
     font-size: 56px ;
     margin-left: -100px;
     font-family:Muli,sans-serif;
-    margin-left: 53px;
-    
+    margin-left: 53px;    
 }
+
 .subtext1{
     text-decoration: underline;
     text-decoration-color: green;
-
 }
-.imagecontent3{
-    
+
+.imagecontent3{    
     background-image: url(images/desktop.jpg);
     width: 56%;
     height: 570px;
     margin-right: -117px;
-    margin-top: 110px;
-    
+    margin-top: 110px;    
 }
+
 .element5{
     font-family:Muli,sans-serif;
 }
+
 .element6{
     font-family:Muli,sans-serif;
-        font-size: 15px;
+    font-size: 15px;
 }
-.button1{
-  
+
+.button1{  
     background-color: #58a573;
     width:200px;
     cursor: pointer;
@@ -101,23 +104,22 @@
     color: white;
     font-family:Muli,sans-serif;
 }
+
 .content5{
     display: flex;
     justify-content: space-around;
     margin-top: 20px;
     height: 528px;
     width: 100%;
-    background-color: #58a573;
-   
-    
+    background-color: #58a573;    
 }
-.element7{
-    
+
+.element7{    
     font-family:Muli;   
     margin-left: -469px;
-    margin-top: 200px;
-    
+    margin-top: 200px;    
 }
+
 .imagecontent6{
     margin-left: 144px;
     background-image: url(images/oferta.jpg);
@@ -126,11 +128,13 @@
     height: 372px;
     margin-top: 60px;
 }
+
 .title2{
     margin-left: 74px;
     font-family:Muli,sans-serif;
     font-size: 18px;
 }
+
 .button2{
     width:200px;
     background-color: #232827;
@@ -141,19 +145,23 @@
     margin-top: 20px;
     cursor: pointer;
 }
+
 .button2:hover{
     color: white;
     text-decoration: underline;
 }
+
 .title3{
     margin-left: 70px;
     margin: 70px;
     font-family:Muli,sans-serif;
 }
+
 .content7{
     display: flex;
     justify-content: space-around;
 }
+
 .imagecontent8{
     background-image: url(images/imagen1.jpg);
     height: 593px;
@@ -161,8 +169,8 @@
     background-repeat: no-repeat;
     margin-left: 15px;
     font-family:Muli,sans-serif;
-
 }
+
 .button3{
     width:200px;
     height: 70px;
@@ -172,10 +180,12 @@
     margin-top: 20px;
     cursor: pointer;
 }
+
 .button3:hover{
     color: #58a573;
     text-decoration: underline;
 }
+
 .imagecontent9{
     background-image: url(images/imagen2.jpg);
     height: 593px;
@@ -184,32 +194,37 @@
     margin-left: 4px;
     font-family:Muli,sans-serif;
 }
+
 .imagecontent10{
     background-image: url(images/imagen3.jpg);
     height: 593px;
     width: 300px;
     background-repeat: no-repeat;
     color: white;
-    font-family:Muli,sans-serif;
-       
+    font-family:Muli,sans-serif;       
 }
+
 .button4{
     cursor: pointer;
     font-family:Muli,sans-serif;
 }
+
 .button4:hover{
     color:#58a573 ;
     text-decoration: underline;
 }
+
 .button5{
     cursor: pointer;
     font-family:Muli,sans-serif;
     color: #58a573;
 }
+
 .button5:hover{
     color:58a573 ;
     text-decoration: underline;
 }
+
 .imagecontent12{
     background-image: url(images/bannerhands.jpg);
     height: 500px ;
@@ -218,12 +233,14 @@
     margin-top: 40px;
     margin-left: 40px;
 }
+
 .content13{
     display: flex;
     justify-content: space-around;
     margin-left: -26px;   
     margin-top: -90px; 
 }
+
 .imagecontent14{
     background-image: url(images/mesaizq.jpg);
     height: 500px ;
@@ -232,6 +249,7 @@
     margin-top: 40px;
     margin-left: 40px;
 }
+
 .imagecontent15{
     background-image: url(images/mesader.jpg);
     height: 500px ;
@@ -240,6 +258,7 @@
     margin-top: 40px;
     margin-left: 40px;
 }
+
 .element8{
     background-color: white;
     margin-top: 40px;
@@ -247,47 +266,52 @@
     font-family:Muli,sans-serif;
     font-size: 1.25rem;
     height: 100px;
-    margin-top: 0px;
-    
+    margin-top: 0px;    
 }
+
 .imagecontent17{
     background-image: url(images/linea1.jpg);
     height: 100px;
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat;    
 }
+
 .imagecontent18{
     background-image: url(images/linea2.jpg);
     height: 100px;
     background-repeat: no-repeat;
 }
+
 .title4{
     font-size: 3.5rem;
     font-family:Muli,sans-serif;
     margin-top: 100px;
 }
+
 .element9{
     font-family:Muli,sans-serif;   
 }
+
 .imagecontent20{
     background-image: url(images/desktoplaptop.jpg);
     height: 400px;
     background-repeat: no-repeat;
     margin-top: 60px;
 }
+
 .imagecontent21{
     background-image: url(Images/tamano.jpg);
     height: 300px;
     background-repeat: no-repeat;
     margin-top: 10px;
     margin-left: 311px;
-
 }
+
 .element10{
     font-family:Muli,sans-serif;
     margin-top: -25px;
     height: 200px;
 }
+
 .button6{
     background-color: #58a573;
     width:200px;
@@ -297,17 +321,20 @@
     color: white;
     font-family:Muli,sans-serif;
 }
+
 .button6:hover{
     color: black;
     text-decoration: underline;
     cursor: pointer;
 }
+
 .content22{
     display: flex;
     justify-content: space-between;
     margin-top: 100px;
     background-color: white;
 }
+
 .imagecontent23{
     background-image: url(images/features1.jpg);
     background-repeat: no-repeat;
@@ -318,6 +345,7 @@
     font-family:Muli,sans-serif;
     margin-left: 42px;
 }
+
 .imagecontent24{
     background-image: url(images/features2.jpg);
     background-repeat: no-repeat;
@@ -331,32 +359,34 @@
     font-family:Muli,sans-serif;
     font-size: 14px;
 }
+
 .element12{
     text-align: center;
     font-family:Muli,sans-serif;
     font-size: 14px;
 }
+
 .element13{
     text-align: center;
     font-family:Muli,sans-serif;
     font-size: 14px;
 }
+
 .element14{
     text-align: center;
     font-family:Muli,sans-serif;
     font-size: 14px;
 }
+
 .content25{
     display: flex;
-    justify-content: space-between;
-    
-     
+    justify-content: space-between;     
 }
+
 .title5{     
     font-family:Muli,sans-serif;
     margin-left: 120px;    
-    width: 501px;
-    
+    width: 501px;    
 }
 
 .imagecontent26{
@@ -364,9 +394,9 @@
     background-repeat: no-repeat;
     width: 501px;
     height: 487px;
-    margin-top: 37px;
-    
+    margin-top: 37px;    
 }
+
 .button7{
     background-color: #58a573;
     width:200px;
@@ -376,19 +406,23 @@
     color: white;
     font-family:Muli,sans-serif;
 }
+
 .button7:hover{
     color: black;
     text-decoration: underline;
     cursor: pointer;
 }
+
 .title6{
     margin-top: 150px;
     margin-bottom: 50px;
 }
+
 .content27{
     display: flex;
     justify-content: space-between;
 }
+
 .imagecontent28{
     background-image: url(Images/contenedor1.jpg);
     width: 100%;
@@ -396,6 +430,7 @@
     background-repeat: no-repeat;
     margin-left: 26px;
 }
+
 .imagecontent29{
     background-image: url(Images/contenedor2.jpg);
     width: 100%;
@@ -403,6 +438,7 @@
     background-repeat: no-repeat;
     margin-left: -21px;
 }
+
 .imagecontent30{
     background-image: url(Images/contenedor3.jpg);
     width: 100%;
@@ -410,6 +446,7 @@
     background-repeat: no-repeat;
     margin-left: -20px;
 }
+
 .imagecontent31{
     background-image: url(Images/contenedor4.jpg);
     width: 100%;
@@ -418,6 +455,7 @@
     margin-left: 26px;
     margin-top: 4px;
 }
+
 .imagecontent32{
     background-image: url(Images/contenedor5.jpg);
     width: 100%;
@@ -426,6 +464,7 @@
     margin-left: -21px;
     margin-top: 4px;
 }
+
 .imagecontent33{
     background-image: url(Images/contenedor6.jpg);
     width: 100%;
@@ -434,9 +473,11 @@
     margin-left: -20px;
     margin-top: 4px;
 }
+
 .content34{
     margin-top: 120px;
 }
+
 .imagecontent35{
     background-image: url(Images/textopie.jpg);
     width: 100%;
@@ -444,55 +485,52 @@
     background-repeat: no-repeat;
     margin-left: 42px;
 }
+
 .content36{
     display: flex;
     justify-content: space-around;
-    font-family:Muli,sans-serif;
-    
+    font-family:Muli,sans-serif;    
 }
+
 .imagecontent37{
     background-image: url(Images/subscribe.jpg);
     background-repeat: no-repeat;
     width: 567px;
-    height: 492px;
-    
+    height: 492px;    
 }
+
 .title7{
     margin-left: 78px;
     font-size: 16px;
     font-family:Muli,sans-serif;
 }
-.modulos-footer__social-stripe {
+
+.footer-modules__social-line {
     background-color: #58a573;
     padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
-   
-    
+    padding-bottom: 1.25rem;    
 }
-.container-wide {
-    
-    width: 95%;
-    
+
+.content-wide {    
+    width: 95%;    
     margin-left: 42px;
     margin-top: 153px;
     font-family:Muli,sans-serif;
-
 }
-.modulos-footer__social-stripe__inner-container {
-    
-    display: flex;
-    
-    align-items: baseline;
-    
-    
+
+.footer-modules__social-line__inner-content {    
+    display: flex;    
+    align-items: baseline;    
     justify-content: center;
 }
-.modulos-footer__social-stripe span {
+
+.footer-modules__social-line span {
     color: #fff;
     margin: .625rem;
     font-size: .875rem;
 }
-.modulos-footer__social-stripe .social-link {
+
+.footer-modules__social-line .link-socialmedia {
     color: #fff;
     opacity: 1;
     margin: .625rem;
@@ -500,30 +538,33 @@
     font-weight: 600;
     text-decoration: underline;
 }
-a {
-    
+
+a {    
     cursor: pointer;
 }
-.listservices{
+
+.content39{
     display: flex;
     justify-content: space-between;
     background-color: white;
     height: 300px;
 }
-.icon{
+
+.imagecontent40{
     background-image: url(images/iconlist.jpg);
     background-repeat: no-repeat;
     height: 194px;
     width: 252px;
     margin-top: 60px;
 }
-.products, .modulos, .info{
+
+.content41, .content42, .content43{
     margin-top: 60px;
     margin-left: -216px;
-    font-family:Muli,sans-serif;
-   
+    font-family:Muli,sans-serif;   
 }
-.pie{
+
+.content45{
     text-align: center;
     font-family:Muli,sans-serif;
     font-size: 12px;
@@ -532,17 +573,18 @@ a {
     border-bottom-style: solid;
     border-bottom-width: thin;
     border-top-style: solid ;
-    border-top-width: thin ;
-    
+    border-top-width: thin ;    
 }
-.footer{
+
+.content46{
     display: flex;
     justify-content: center;
     background-color: white;
     border-bottom-style: solid;
     border-bottom-width: thin;
 }
-.footerimage1{
+
+.imagecontent47{
     background-image: url(images/footerimage1.jpg);
     background-repeat: no-repeat;
     height: 150px;
@@ -551,13 +593,14 @@ a {
     margin-left: 100px;
     margin-top: 20px;
 }
-.footer2{
+
+.content48{
     display: flex;
     justify-content: center;
     background-color: white;
 }
     
-.footerimage2{
+.imagecontent49{
     background-image: url(images/footerimage2.jpg);
     background-repeat: no-repeat;
     height: 100px;
