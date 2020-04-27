@@ -434,30 +434,30 @@
     margin-left: -20px;
     margin-top: 4px;
 }
-.content28{
+.content34{
     margin-top: 120px;
 }
-.textopie{
+.imagecontent35{
     background-image: url(Images/textopie.jpg);
     width: 100%;
     height: 400px;
     background-repeat: no-repeat;
     margin-left: 42px;
 }
-.container3{
+.content36{
     display: flex;
     justify-content: space-around;
     font-family:Muli,sans-serif;
     
 }
-.subscribe{
+.imagecontent37{
     background-image: url(Images/subscribe.jpg);
     background-repeat: no-repeat;
     width: 567px;
     height: 492px;
     
 }
-.subscribe1{
+.title7{
     margin-left: 78px;
     font-size: 16px;
     font-family:Muli,sans-serif;
